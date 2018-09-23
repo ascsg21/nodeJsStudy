@@ -1,0 +1,2 @@
+{"message":"파일 복사 [./output.txt] -> [./output2.txt]","level":"info"}
+{"message":"기존 파일 [./output2.txt] 삭제함.","level":"info"}
